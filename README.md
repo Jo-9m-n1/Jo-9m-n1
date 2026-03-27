@@ -16,6 +16,6 @@ Connect with me: [LinkedIn](https://linkedin.com/in/jo-9m-n1)
 
 | Year | Name | Description |
 |-------|-------|-------|
-| 2026 | **Liminal** | Developed a dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** (102 dataset test) |
-| 2026 |**DeckMots** | Developed at a French GameJam, it is a French learning game that uses Unity and C# |
-| 2026 |**Dr. Bob** | An award-winning project developed at a hackathon, it uses Twilio to automate patient intake and history tracking, ensuring medical data is organized for doctors |
+| 2026 | **Liminal** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
+| 2026 |**DeckMots** | French learning game that uses Unity and C# |
+| 2026 |**Dr. Bob** | An award-winning project using Twilio to automate patient, ensuring medical data is organized for doctors |
