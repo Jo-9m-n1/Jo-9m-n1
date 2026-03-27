@@ -1,6 +1,6 @@
-# Hi! I’m Jongmin Lee  
-[LinkedIn](https://linkedin.com/in/jo-9m-n1) | [Portfolio](https://jongminlee.vercel.app)
-
+# Hi! I’m Jongmin Lee
+Check out my portfolio: [Portfolio](https://jongminlee.vercel.app)\
+Connect with me: [LinkedIn](https://linkedin.com/in/jo-9m-n1)
 ### Hackathon Awards
 
 | Year | Award | Event |
