@@ -7,7 +7,7 @@ Connect with me: [LinkedIn](https://linkedin.com/in/jo-9m-n1)
 |-------|-------|-------|
 | 2026 | 🥇 **1st Place** | McGill AeroHacks (Drone) |
 | 2026 | 🥈 **2nd Place** | Dialogue Track at ConUHacks |
-| 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon (Robotics) |
+| 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon (Path-Following Robot) |
 | 2026 | 🥉 **3rd Place** | Beginner Track at @HACK (CTF) |
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
 | 2025 | 🏅 **Best Use of Gemini API** | HackDécouverte |
