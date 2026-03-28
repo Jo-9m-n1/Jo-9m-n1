@@ -1,6 +1,12 @@
 # Hi! I’m Jongmin Lee
-Check out my portfolio: [Portfolio](https://jongminlee.vercel.app)\
-Connect with me: [LinkedIn](https://linkedin.com/in/jo-9m-n1)
+[Portfolio](https://jongminlee.vercel.app) | [LinkedIn](https://linkedin.com/in/jo-9m-n1) | [GitLab](https://gitlab.com/Jo_9m_n1)
+
+### Technical Stack
+
+Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C**
+
+Languages: **English, Korean & French**
+
 ### Hackathon Awards
 
 | Year | Award | Event |
