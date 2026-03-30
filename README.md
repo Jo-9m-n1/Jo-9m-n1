@@ -1,13 +1,13 @@
 # Hi! I’m Jongmin Lee
 [Portfolio](https://jongminlee.vercel.app) | [LinkedIn](https://linkedin.com/in/jo-9m-n1) | [GitLab](https://gitlab.com/Jo_9m_n1)
 
-### Technical Stack
+## Technical Stack
 
 Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C**
 
 Languages: **English, Korean & French**
 
-### Hackathon Awards
+## Hackathon Awards
 
 | Year | Award | Event |
 |-------|-------|-------|
@@ -18,10 +18,10 @@ Languages: **English, Korean & French**
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
 | 2025 | 🏅 **Best Use of Gemini API** | HackDécouverte |
 
-### Key Projects
+## Key Projects
 
 | Year | Name | Description |
 |-------|-------|-------|
 | 2026 | **Liminal** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
 | 2026 |**DeckMots** | French learning game that uses Unity and C# |
-| 2026 |**Dr. Bob** | An **hackathon-winning project** using Twilio to automate patient, ensuring medical data is organized for doctors |
+| 2026 |**Dr. Bob** | An **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
