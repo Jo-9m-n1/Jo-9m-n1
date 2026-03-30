@@ -24,4 +24,4 @@ Languages: **English, Korean & French**
 |-------|-------|-------|
 | 2026 | **Liminal** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
 | 2026 |**DeckMots** | French learning game that uses Unity and C# |
-| 2026 |**Dr. Bob** | An **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
+| 2026 |**Dr. Bob** | A **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
