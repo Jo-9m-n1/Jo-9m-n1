@@ -11,6 +11,7 @@ Languages: **English, Korean & French**
 
 | Year | Award | Event |
 |-------|-------|-------|
+| 2026 | 🥇 **1st Place** | JACHacks |
 | 2026 | 🥇 **1st Place** | McGill AeroHacks (Drone) |
 | 2026 | 🥈 **2nd Place** | Dialogue Track at ConUHacks |
 | 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon (Path-Following Robot) |
