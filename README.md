@@ -23,6 +23,8 @@ Languages: **English, Korean & French**
 
 | Year | Name | Description |
 |-------|-------|-------|
+| 2026 | **Chemically Bondd** | Built a chemistry AI **reducing 3D model generation latency by 24x** compared to Gemini 3.1 Pro |
+| 2026 | **OurCampus** | A **hackathon-winning** project with campus foot-traffic heatmap that process live network data |
 | 2026 | **Liminal** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
-| 2026 |**DeckMots** | French learning game that uses Unity and C# |
-| 2026 |**Dr. Bob** | A **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
+| 2026 | **DeckMots** | French learning game that uses Unity and C# |
+| 2026 | **Dr. Bob** | A **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
