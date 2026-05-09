@@ -14,7 +14,8 @@ Languages: **English, Korean & French**
 | 2026 | 🥇 **1st Place** | JACHacks |
 | 2026 | 🥇 **1st Place** | McGill AeroHacks (Drone) |
 | 2026 | 🥈 **2nd Place** | Dialogue Track at ConUHacks |
-| 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon (Path-Following Robot) |
+| 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon '25 (Arduino Robot) |
+| 2026 | 🥉 **3rd Place** | Dawson Robotics Hackathon '26 (Raspberry Pi Robot)
 | 2026 | 🥉 **3rd Place** | Beginner Track at @HACK (CTF) |
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
 | 2025 | 🏅 **Best Use of Gemini API** | HackDécouverte |
