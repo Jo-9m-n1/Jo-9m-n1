@@ -24,7 +24,7 @@ Languages: **English, Korean & French**
 
 | Year | Name | Description |
 |-------|-------|-------|
-| 2026 | **Chemically Bonded** | Built a chemistry AI **reducing 3D model generation latency by 27.1x** compared to Claude Sonnet 4.6 |
+| 2026 | **Chemically Bonded** | AI chemistry platform **reducing 3D model generation latency by 27.1x** compared to Claude 4.6 Sonnet |
 | 2026 | **OurCampus** | A **hackathon-winning** project with campus foot-traffic heatmap that process live network data |
 | 2026 | **Liminal** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
 | 2026 | **DeckMots** | French learning game that uses Unity and C# |
