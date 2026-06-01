@@ -13,7 +13,7 @@ Languages: **English, Korean & French**
 |-------|-------|-------|
 | 2026 | 🥇 **1st Place** | JACHacks |
 | 2026 | 🥇 **1st Place** | McGill AeroHacks (Drone) |
-| 2026 | 🥈 **2nd Place** | MPC Hacks |
+| 2026 | 🥈 **2nd Place** | Brim Track at MPC Hacks |
 | 2026 | 🥈 **2nd Place** | Dialogue Track at ConUHacks |
 | 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon 2025 (Arduino) |
 | 2026 | 🥉 **3rd Place** | Dawson Robotics Hackathon 2026 (Raspberry Pi) |
