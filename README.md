@@ -3,9 +3,9 @@
 
 ## Technical Stack
 
-Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C**
+Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C & Java**
 
-Languages: **English, Korean & French**
+Languages: **English, Korean & French (B2)**
 
 ## Hackathon Awards
 
