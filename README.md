@@ -19,7 +19,7 @@ Languages: **English, Korean & French (B2)**
 | 2026 | 🥉 **3rd Place** | Dawson Robotics Hackathon 2026 (Raspberry Pi) |
 | 2026 | 🥉 **3rd Place** | Beginner Track at @HACK (CTF) |
 | 2026 | 🏅 **Best Use of ElevenLabs** | MPC Hacks |
-| 2026 | 🏅 **Best science students project** | JACHacks |
+| 2026 | 🏅 **Best Science Students Project** | JACHacks |
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
 | 2025 | 🏅 **Best Use of Gemini API** | HackDécouverte |
 
