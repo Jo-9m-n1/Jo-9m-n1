@@ -1,6 +1,9 @@
 # Hi! I’m Jongmin Lee
 [Portfolio](https://jongmin.tech) | [LinkedIn](https://linkedin.com/in/jo-9m-n1) | [GitLab](https://gitlab.com/Jo_9m_n1)
 
+![Jo-9m-n1's Stats](https://github-readme-stats.vercel.app/api?username=Jo-9m-n1&theme=default&hide_title=true&show_icons=true&hide_border=false&hide_rank=true&count_private=true)
+![Jo-9m-n1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-9m-n1&theme=default&show_icons=true&hide_border=false&layout=compact)
+
 ## Technical Stack
 
 Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C & Java**
