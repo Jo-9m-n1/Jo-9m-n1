@@ -11,15 +11,16 @@ Languages: **English, Korean & French (B2)**
 
 | Year | Award | Event |
 |-------|-------|-------|
-| 2026 | 🥇 **1st Place** | JACHacks |
-| 2026 | 🥇 **1st Place** | McGill AeroHacks (Drone) |
-| 2026 | 🥈 **2nd Place** | Brim Track at MPC Hacks |
-| 2026 | 🥈 **2nd Place** | Dialogue Track at ConUHacks |
+| 2026 | 🥇 **[1st Place](https://devpost.com/software/ourcampus-t2u5fs)** | JACHacks |
+| 2026 | 🥇 **[1st Place](https://devpost.com/software/the-ganders)** | McGill AeroHacks (Drone) |
+| 2026 | 🥈 **[2nd Place](https://devpost.com/software/mpc-hacks-2026)** | Brim Track at MPC Hacks |
+| 2026 | 🥈 **[2nd Place](https://devpost.com/software/dr-bob)** | Dialogue Track at ConUHacks |
 | 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon 2025 (Arduino) |
 | 2026 | 🥉 **3rd Place** | Dawson Robotics Hackathon 2026 (Raspberry Pi) |
 | 2026 | 🥉 **3rd Place** | Beginner Track at @HACK (CTF) |
-| 2026 | 🏅 **Best Use of ElevenLabs** | MPC Hacks |
-| 2026 | 🏅 **Best Science Students Project** | JACHacks |
+| 2026 | 🏅 **[Best Use of Featherless AI](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/de-mythos-tified/healthvet)** | Band of Agents Hackathon |
+| 2026 | 🏅 **[Best Use of ElevenLabs](https://devpost.com/software/mpc-hacks-2026)** | MPC Hacks |
+| 2026 | 🏅 **[Best Science Students Project](https://devpost.com/software/ourcampus-t2u5fs)** | JACHacks |
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
 | 2025 | 🏅 **Best Use of Gemini API** | HackDécouverte |
 
