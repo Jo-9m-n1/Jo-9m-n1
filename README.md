@@ -11,7 +11,7 @@ Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C
 
 Languages: **English, Korean & French (B2)**
 
-## 12 Hackathon Awards
+## 12 Hackathon & CTF Awards
 
 | Year | Award | Event |
 |-------|-------|-------|
