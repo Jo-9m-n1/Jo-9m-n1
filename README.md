@@ -2,20 +2,6 @@
 
 [Portfolio](https://jongmin.tech) | [LinkedIn](https://linkedin.com/in/jo-9m-n1) | [GitLab](https://gitlab.com/Jo_9m_n1) | [Devpost](https://devpost.com/Jo-9m-n1)
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jo-9m-n1&theme=github_dark&hide_title=true&show_icons=true&hide_border=true&hide_rank=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jo-9m-n1&theme=default&hide_title=true&show_icons=true&hide_border=true&hide_rank=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jo-9m-n1&theme=default&hide_title=true&show_icons=true&hide_border=true&hide_rank=true&count_private=true" alt="Jongmin's Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-9m-n1&theme=github_dark&show_icons=true&hide_border=true&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-9m-n1&theme=default&show_icons=true&hide_border=true&layout=compact" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-9m-n1&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Jongmin's Top Languages" />
-  </picture>
-</p>
-
 ## Technical Stack
 
 Core Technologies: **Python & JavaScript** | Familiar Technologies: **C++, C#, C & Java**
