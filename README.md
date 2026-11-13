@@ -29,8 +29,8 @@ Languages: **English, Korean & French (B2)**
 
 | Year | Name | Description |
 |-------|-------|-------|
-| 2026 | **[Chemically Bonded](https://www.jongmin.tech/project/Chemically-Bonded)** | AI chemistry platform **reducing 3D model generation latency by 27.1x** compared to Claude 4.6 Sonnet |
+| 2026 | **[Chemically Bonded](https://www.jongmin.tech/project/Chemically-Bonded)** | Chemistry AI chatbot, **reducing 3D model generation latency by 27.1x** compared to Claude 4.6 Sonnet |
 | 2026 | **[OurCampus](https://www.jongmin.tech/project/OurCampus)** | A **hackathon-winning** project with campus foot-traffic heatmap that process live network data |
 | 2026 | **[Liminal](https://www.jongmin.tech/project/Liminal)** | Dual-tier AI guardrail system to detect mental health crises in youth, **improving crisis recall by 9x** |
-| 2026 | **[DeckMots](https://www.jongmin.tech/project/DeckMots)** | French learning game that uses Unity and C# |
-| 2026 | **[Dr. Bob](https://www.jongmin.tech/project/Dr-Bob)** | A **hackathon-winning** AI assistant streamlining clinical appointment scheduling |
+| 2026 | **[DeckMots](https://www.jongmin.tech/project/DeckMots)** | French learning game for kids that uses Unity and C# |
+| 2026 | **[Dr. Bob](https://www.jongmin.tech/project/Dr-Bob)** | A **hackathon-winning** AI assistant streamlining clinical appointment scheduling via Twilio |
