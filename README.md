@@ -19,7 +19,7 @@ Languages: **English, Korean & French (B2)**
 | 2025 | 🥈 **2nd Place** | Dawson Robotics Hackathon 2025 (Arduino) |
 | 2026 | 🥉 **3rd Place** | Dawson Robotics Hackathon 2026 (Raspberry Pi) |
 | 2026 | 🥉 **3rd Place** | Beginner Track at @HACK (CTF) |
-| 2026 | 🏅 **[Best Use of Featherless AI](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/de-mythos-tified/healthvet)** | Band of Agents Hackathon |
+| 2026 | 🏅 **[Best Use of Featherless AI]** | Band of Agents Hackathon |
 | 2026 | 🏅 **[Best Use of ElevenLabs](https://devpost.com/software/mpc-hacks-2026)** | MPC Hacks |
 | 2026 | 🏅 **[Best Science Students Project](https://devpost.com/software/ourcampus-t2u5fs)** | JACHacks |
 | 2026 | 🏅 **Best New Genre** | Dialogue Internal Hackathon |
